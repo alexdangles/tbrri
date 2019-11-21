@@ -1,0 +1,80 @@
+#########################################################
+#############   5 Palladium-103 seeds   #################
+#########################################################
+
+/gate/source/addSource 			seed1
+/gate/source/seed1/gps/centre 		0   0   0   cm
+/gate/source/seed1/gps/type		Volume
+/gate/source/seed1/gps/shape		Cylinder
+/gate/source/seed1/gps/radius		0.4 mm
+/gate/source/seed1/gps/halfz		2.5 mm
+/gate/source/seed1/gps/particle		gamma
+/gate/source/seed1/gps/energytype 	Gauss
+/gate/source/seed1/gps/emin		20.07 keV
+/gate/source/seed1/gps/emax		23.17 keV
+/gate/source/seed1/gps/energy		20.60957 keV
+/gate/source/seed1/gps/sigmae 		0.97302 keV
+/gate/source/seed1/gps/angtype		iso
+/gate/source/seed1/setActivity 		{SourceActivity(Ci)} Ci
+
+/gate/source/addSource 			seed2
+/gate/source/seed2/gps/centre 		0   0   1   cm
+/gate/source/seed2/gps/type		Volume
+/gate/source/seed2/gps/shape		Cylinder
+/gate/source/seed2/gps/radius		0.4 mm
+/gate/source/seed2/gps/halfz		2.5 mm
+/gate/source/seed2/gps/particle		gamma
+/gate/source/seed2/gps/energytype 	Gauss
+/gate/source/seed2/gps/emin		20.07 keV
+/gate/source/seed2/gps/emax		23.17 keV
+/gate/source/seed2/gps/energy		20.60957 keV
+/gate/source/seed2/gps/sigmae 		0.97302 keV
+/gate/source/seed2/gps/angtype		iso
+/gate/source/seed2/setActivity 		{SourceActivity(Ci)} Ci
+
+/gate/source/addSource 			seed3
+/gate/source/seed3/gps/centre 		0   0   -1   cm
+/gate/source/seed3/gps/type		Volume
+/gate/source/seed3/gps/shape		Cylinder
+/gate/source/seed3/gps/radius		0.4 mm
+/gate/source/seed3/gps/halfz		2.5 mm
+/gate/source/seed3/gps/particle		gamma
+/gate/source/seed3/gps/energytype 	Gauss
+/gate/source/seed3/gps/emin		20.07 keV
+/gate/source/seed3/gps/emax		23.17 keV
+/gate/source/seed3/gps/energy		20.60957 keV
+/gate/source/seed3/gps/sigmae 		0.97302 keV
+/gate/source/seed3/gps/angtype		iso
+/gate/source/seed3/setActivity 		{SourceActivity(Ci)} Ci
+
+/gate/source/addSource 			seed4
+/gate/source/seed4/gps/centre 		0   1   0   cm
+/gate/source/seed4/gps/type		Volume
+/gate/source/seed4/gps/shape		Cylinder
+/gate/source/seed4/gps/radius		0.4 mm
+/gate/source/seed4/gps/halfz		2.5 mm
+/gate/source/seed4/gps/particle		gamma
+/gate/source/seed4/gps/energytype 	Gauss
+/gate/source/seed4/gps/emin		20.07 keV
+/gate/source/seed4/gps/emax		23.17 keV
+/gate/source/seed4/gps/energy		20.60957 keV
+/gate/source/seed4/gps/sigmae 		0.97302 keV
+/gate/source/seed4/gps/angtype		iso
+/gate/source/seed4/setActivity 		{SourceActivity(Ci)} Ci
+
+/gate/source/addSource 			seed5
+/gate/source/seed5/gps/centre 		0   -1   0   cm
+/gate/source/seed5/gps/type		Volume
+/gate/source/seed5/gps/shape		Cylinder
+/gate/source/seed5/gps/radius		0.4 mm
+/gate/source/seed5/gps/halfz		2.5 mm
+/gate/source/seed5/gps/particle		gamma
+/gate/source/seed5/gps/energytype 	Gauss
+/gate/source/seed5/gps/emin		20.07 keV
+/gate/source/seed5/gps/emax		23.17 keV
+/gate/source/seed5/gps/energy		20.60957 keV
+/gate/source/seed5/gps/sigmae 		0.97302 keV
+/gate/source/seed5/gps/angtype		iso
+/gate/source/seed5/setActivity 		{SourceActivity(Ci)} Ci
+
+/gate/source/list

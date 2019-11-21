@@ -1,0 +1,12 @@
+/control/alias ViewPointThetaPhi  0 90
+/control/alias VisuOnOff  novisu
+/control/alias Zoom  10
+/control/alias TimeSlice(s)  0.1
+/control/alias TimeStop(s)  1.0
+/control/alias x_placement(cm)  8.8
+/control/alias CollimatorMaterial  Plexiglass
+/control/alias CrystalMaterial  NaI
+/control/alias PhantomMaterial  Plexiglass
+/control/alias PhantomRadius(cm)  5.0
+/control/alias SourceType  Americium
+/control/alias SourceActivity(Ci)  0.000001

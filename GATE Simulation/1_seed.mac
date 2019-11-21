@@ -1,0 +1,20 @@
+#########################################################
+#############   1 Palladium-103 seed   ##################
+#########################################################
+
+/gate/source/addSource 			seed1
+/gate/source/seed1/gps/centre 		0   0   0   cm
+/gate/source/seed1/gps/type		Volume
+/gate/source/seed1/gps/shape		Cylinder
+/gate/source/seed1/gps/radius		0.4 mm
+/gate/source/seed1/gps/halfz		2.5 mm
+/gate/source/seed1/gps/particle		gamma
+/gate/source/seed1/gps/energytype 	Gauss
+/gate/source/seed1/gps/emin		20.07 keV
+/gate/source/seed1/gps/emax		23.17 keV
+/gate/source/seed1/gps/energy		20.60957 keV
+/gate/source/seed1/gps/sigmae 		0.97302 keV
+/gate/source/seed1/gps/angtype		iso
+/gate/source/seed1/setActivity 		{SourceActivity(Ci)} Ci
+
+/gate/source/list

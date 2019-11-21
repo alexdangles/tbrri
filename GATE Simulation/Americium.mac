@@ -1,0 +1,17 @@
+#########################################################
+#############     Americium Source     ##################
+#########################################################
+
+/gate/source/addSource 			seed1
+/gate/source/seed1/gps/centre 		0   0   0   cm
+/gate/source/seed1/gps/type		Volume
+/gate/source/seed1/gps/shape		Cylinder
+/gate/source/seed1/gps/radius		0.4 mm
+/gate/source/seed1/gps/halfz		2.5 mm
+/gate/source/seed1/gps/particle		gamma
+/gate/source/seed1/gps/energytype 	Mono
+/gate/source/seed1/gps/monoenergy	59.5 keV
+/gate/source/seed1/gps/angtype		iso
+/gate/source/seed1/setActivity 		{SourceActivity(Ci)} Ci
+
+/gate/source/list

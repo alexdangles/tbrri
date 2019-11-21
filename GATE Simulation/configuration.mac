@@ -1,0 +1,13 @@
+/control/alias ViewPointThetaPhi  0 90
+/control/alias VisuOnOff  novisu
+/control/alias Zoom  20
+/control/alias TimeSlice(s)  0.1
+/control/alias TimeStop(s)  1.0
+/control/alias x_placement(cm)  2.0
+/control/alias CollimatorMaterial  Air
+/control/alias Detector  110um_a-Se
+/control/alias CrystalMaterial  Selenium
+/control/alias PhantomMaterial  Air
+/control/alias PhantomRadius(cm)  1.0
+/control/alias SourceType  1_seed
+/control/alias SourceActivity(Ci)  0.001

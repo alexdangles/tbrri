@@ -1,0 +1,10 @@
+#
+#       P H Y S I C S
+#
+/gate/physics/addPhysicsList QGSP_BERT_EMV
+
+#
+#       C U T S
+#
+/gate/physics/Gamma/SetCutInRegion      SPECThead 0.1 cm
+/gate/physics/Electron/SetCutInRegion   SPECThead 1.0 cm
