@@ -1,14 +1,3 @@
-################################################
-#
-#	Gamma_Camera.mac / EduGate-Project
-#
-#	Version 1
-#	February 23, 2011
-#	Uwe Pietrzyk -	u.pietrzyk@fz-juelich.de
-#
-#
-################################################
-
 #	C O N F I G U R A T I O N
 
 /control/execute configuration.mac
